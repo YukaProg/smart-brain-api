@@ -28,5 +28,9 @@
     "url": "https://github.com/YukaProg/smart-brain-api/issues"
   },
   "homepage": "https://github.com/YukaProg/smart-brain-api#readme",
-  "description": ""
+  "description": "",
+  "engines": {
+    "node": "v4.1.X",
+    "npm": "2.14.X"
+  }
 }
